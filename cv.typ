@@ -182,7 +182,6 @@ title: "Principal Biostatistician",
 ]
 
 
-
 #resume-entry(
   title: "NutriPlot",
   location: github-link("Andres-AM/NutriPlot"),
