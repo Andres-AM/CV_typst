@@ -27,8 +27,8 @@
 
 #resume-item[  
 // With over 5 years of experience in R programming, statistical analysis, and data presentation using R Markdown reports and interactive Shiny apps, I am dedicated to leveraging these skills in the health sector to communicate relevant data insights and ultimately enhance people's well-being.
-// With over 5 years of experience in R programming and statistical analysis, my passion lies in applying these skills to analyze datasets and extract valuable insights. Strong communication abilities complement my technical expertise, enabling effective collaboration and knowledge sharing.
-With over 3 years of experience in the biotechnology sector developing in vitro diagnostic kits, I understand the requirements of the manufacturing processes. Strong communication abilities complement my technical expertise, enabling effective collaboration and knowledge sharing.
+With over 5 years of experience in R programming and statistical analysis, my passion lies in applying these skills to analyze datasets and extract valuable insights. Strong communication abilities complement my technical expertise, enabling effective collaboration and knowledge sharing.
+// With over 3 years of experience in the biotechnology sector developing in vitro diagnostic kits, I understand the requirements of the manufacturing processes. Strong communication abilities complement my technical expertise, enabling effective collaboration and knowledge sharing.
 \
 \
 ]
@@ -52,14 +52,14 @@ With over 3 years of experience in the biotechnology sector developing in vitro 
 #resume-skill-item("Data Analysis", (
   "Experimental design, t-tests, ANOVA (analysis of variance)", 
   "survival analysis, regression analysis, prediction", 
-  // "Sample size calculation and hypothesis testing"
+  "Sample size calculation and hypothesis testing"
   )
 )
 
 
 #resume-skill-item("Programming ", (
    strong("R programming with 5+ years of experience"),
-  "Base R, R Shiny, Tidyverse, R package creation",
+  "Base R, R Shiny, Tidyverse,"," R package creation",
   "Other programming languages : Bash, Python and SQL"
 )
 )
@@ -91,7 +91,7 @@ With over 3 years of experience in the biotechnology sector developing in vitro 
 #resume-entry(
   title: "Coople Worker",
   location: "Geneva, Switzerland",
-  date: "2022 - 2024",
+  date: "2023 - 2024",
   description: "Coople AG",
 )
 
@@ -105,11 +105,11 @@ title: "Principal Biostatistician",
 
 #resume-item[
     - Conducted statistical planning and analysis to evaluate the performance of qPCR kits, leading to 10 successful kit submissions compliant with in-vitro diagnostic regulation.
-    // - Provided statistical counseling to up to five teams/clients developing biotechnology products, ensuring timely completion despite overlapping deadlines.
+    - Provided statistical counseling to up to five teams/clients developing biotechnology products, ensuring timely completion despite overlapping deadlines.
     - Developed and deployed three interactive web applications (Shiny Apps) and two R packages for customized solutions, including data visualization, automated calculations, and reproducible results, in order to optimize data analysis.
-    - Validated two in-house developed computerized systems using the computerized system validation process in accordance with GAMP5 guidelines, collaborating closely with multidisciplinary teams including Quality Assurance and IT.
-    // - Effectively led a three-member biostatistics team to ensure timely delivery of high-quality reports and results.
-  //   - Designed a bioinformatics pipeline for in silico testing of biological reactions using DNA databases, focusing on process optimisation for enhanced efficiency and speed.
+    - Effectively led a three-member biostatistics team to ensure timely delivery of high-quality reports and results.
+    // - Validated two in-house developed computerized systems using the computerized system validation process in accordance with GAMP5 guidelines, collaborating closely with multidisciplinary teams including Quality Assurance and IT.
+    // - Designed a bioinformatics pipeline for in silico testing of biological reactions using DNA databases, focusing on process optimisation for enhanced efficiency and speed.
 ]
 
 #resume-entry(
@@ -181,7 +181,6 @@ title: "Principal Biostatistician",
 
 ]
 
-
 #resume-entry(
   title: "NutriPlot",
   location: github-link("Andres-AM/NutriPlot"),
@@ -249,25 +248,25 @@ title: "Principal Biostatistician",
 ]
 
 \
-= References
+// = References
 
-#resume-entry(
-  title: "Régis Perbost",
-  description: "Veracyte Inc - Associate Director Biostatistician/Bioinformatician",
-)
+// #resume-entry(
+//   title: "Régis Perbost",
+//   description: "Veracyte Inc - Associate Director Biostatistician/Bioinformatician",
+// )
 
-#resume-item[
-  - #link("regis.perbost@veracyte.com ")
-  - (+33) 4 91 29 41 33
-]
+// #resume-item[
+//   - #link("regis.perbost@veracyte.com ")
+//   - (+33) 4 91 29 41 33
+// ]
 
-#resume-entry(
-  title: "Olivier Biglia",
-  // location: "Veracyte Marseille",
-  description: "Veracyte Inc - Associate Director, Technical expert",
-)
+// #resume-entry(
+//   title: "Olivier Biglia",
+//   // location: "Veracyte Marseille",
+//   description: "Veracyte Inc - Associate Director, Technical expert",
+// )
 
-#resume-item[
-  - #link("olivier.biglia@veracyte.com")
-  - (+33) 4 91 29 86 22
-]
+// #resume-item[
+//   - #link("olivier.biglia@veracyte.com")
+//   - (+33) 4 91 29 86 22
+// ]
