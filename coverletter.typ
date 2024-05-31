@@ -43,5 +43,6 @@ In August 2022, I resigned from my previous position for family reasons, choosin
 \
 \
 Thank you for considering my application. I look forward to discussing how I can contribute to your team. Please feel free to contact me.
+Thank you for considering my application. I look forward to discussing how I can contribute to your team. Please feel free to contact me.
 ]
 
