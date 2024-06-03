@@ -601,13 +601,13 @@
   
 let letter-conclusion = {
   align(left)[
-    #pad(top: 2em,bottom: 0em)[
+    #pad(top: 1em,bottom: 0em)[
       #place(dx: 30em, dy: 0em,text(weight: "light")[#linguify("sincerely", from: lang_data)#sym.comma])
     ]
     #pad(top: 0em, bottom: 0em)[
-      #place(dx: 30em, dy: 0em, image("signature.png", width: 20%, fit: "contain"))
+      #place(dx: 30em, dy: 0em, image("signature.png", width: 18%, fit: "contain"))
     ]
-    #pad(top: 5em, bottom: 0em)[
+    #pad(top: 4.5em, bottom: 0em)[
       #place(dx: 30em, dy: 0em,text(weight: "bold")[#author.firstname #author.lastname])
     ]
   ]
