@@ -1,0 +1,6 @@
+
+typst compile coverletter.typ coverletter.pdf
+typst compile cv.typ cv.pdf
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=AndresAcuña.pdf coverletter.pdf cv.pdf Additional_Documents.pdf
+rm cv.pdf
+rm coverletter.pdf 
