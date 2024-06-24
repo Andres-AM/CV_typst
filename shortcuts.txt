@@ -1,6 +1,5 @@
 
 
 typst compile coverletter.typ coverletter.pdf; typst compile cv.typ cv.pdf; gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=AndresAcuña.pdf coverletter.pdf cv.pdf
-
 typst compile coverletter.typ coverletter.pdf; typst compile cv.typ cv.pdf
 gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=AndresAcuña.pdf coverletter.pdf cv.pdf
