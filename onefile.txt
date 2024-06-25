@@ -4,3 +4,4 @@ typst compile cv.typ cv.pdf
 gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=AndresAcuña.pdf coverletter.pdf cv.pdf Additional_Documents.pdf
 rm cv.pdf
 rm coverletter.pdf 
+cp AndresAcuña.pdf ../cv_typst/Archives_CV_LM/AndresAcuña_$(date +'%Y%m%d_%H%M%S').pdf
