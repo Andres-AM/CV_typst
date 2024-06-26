@@ -541,7 +541,7 @@
     align(right)[
       #set text(
         size: 8pt,
-        weight: "light",
+        weight: "regular",
         style: "normal",
       )
       #block[
