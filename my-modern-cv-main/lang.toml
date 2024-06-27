@@ -6,8 +6,8 @@ resume = "CV"
 dear = "Dear"
 cover-letter = "Cover Letter"
 attached = "Attached"
-curriculum-vitae = "CV, copies of university degrees, work certificate, work permit for Switzerland"
-sincerely = "Sincerely"
+curriculum-vitae = "CV, copies of university degrees, work certificate, B work permit"
+sincerely = "Kind regards"
 
 [lang.de]
 resume = "Lebenslauf"
@@ -43,7 +43,7 @@ sincerely = "Sinceramente"
 
 [lang.fr]
 resume = "Curriculum Vitae"
-dear = "Cher/Chère"
+dear = "Madame"
 cover-letter = "Lettre de motivation"
 attached = "Ci-joint"
 curriculum-vitae = "CV, diplômes, certificat de travail, lettre de référence et permis B"
