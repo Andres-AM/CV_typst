@@ -415,8 +415,10 @@
 #let coverletter(
   author: (:),
   profile-picture: image,
-    date: datetime.today().display("Juin [day], [year]"),
+    // date: datetime.today().display("Juin [day], [year]"),
   // date: datetime.today().display("[month repr:long] [day], [year]"),
+    date: datetime.today().display("[year]-[month]-[day]"),
+
   accent-color: default-accent-color,
   language: "fr",
   body,
@@ -639,8 +641,9 @@ let letter-conclusion = {
 /// - date (date): The date the letter was written (defaults to the current date)
 #let hiring-entity-info(
   entity-info: (:),
+    date: datetime.today().display("Genève, le [day].[month].[year repr:last_two]"),
   // date: datetime.today().display("Genève, [month repr:long] [day], [year]"),
-    date: datetime.today().display("Genève, Juin [day], [year]"),
+    // date: datetime.today().display("Genève, Juin [day], [year]"),
 
 
 ) = {
