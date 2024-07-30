@@ -43,7 +43,7 @@ sincerely = "Sinceramente"
 
 [lang.fr]
 resume = "Curriculum Vitae"
-dear = "Madame"
+dear = "Madame, Monsieur"
 cover-letter = "Lettre de motivation"
 attached = "Ci-joint"
 curriculum-vitae = "CV, diplômes, certificat de travail, lettre de référence et permis B"
